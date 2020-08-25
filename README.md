@@ -1,2 +1,2 @@
 # practicerep
-Its is a repository for practice.
+It is a repository for practice.
